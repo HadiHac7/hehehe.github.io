@@ -1,0 +1,68 @@
+body {
+    background-image: url("https://images.nightcafe.studio/jobs/7MeTSXaklng0rK9TQXF3/7MeTSXaklng0rK9TQXF3--7--a595p_10.4167x.jpg?tr=w-1600,c-at_max");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    color: rgb(45, 45, 45);
+    padding: 10px;
+    font-family: arial;
+}
+#all-contents {
+  max-width: 800px;
+    margin: auto;
+}
+
+/* navigation menu */
+nav {
+    background-color: #001E1E;
+   margin: 0 auto;
+    display: flex;
+    padding: 10px;
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
+h1 {
+    display: flex;
+    align-items: center;
+    color: white;
+    flex: 1;
+    margin: 0;
+}
+#nav-ul {
+    list-style-image: none;
+}
+.nav-li {
+    display: inline-block;
+    padding: 0 10px;
+}
+a {
+    text-decoration: none;
+    color: #fff;
+}
+
+/* main container area beneath menu */
+main {
+    background-image: url("https://img.freepik.com/premium-photo/wallpaper-pc-black-with-aqua-accents-minimalist-background_948233-9078.jpg");
+    background-size: 100%;
+    display: flex;
+    border-radius: 8px;
+}
+.sidebar {
+    margin-right: 25px;
+    padding: 10px;
+}
+.sidebar-img {
+    width: 200px;
+}
+.content {
+    flex: 1;
+    padding: 15px;
+}
+
+/* portfolio styles */
+#interests {
+    border: 4px silver ridge;
+    padding: 8px;
+}
+h2, h3 {
+    margin: 0px;
+}
